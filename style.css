@@ -1,0 +1,50 @@
+.head {
+	top: 0%;
+	left: 0%;
+	height: 100px;
+	width: 100%;
+	background-color: #1f252a;
+	position: fixed;
+}
+
+.link {
+	text-decoration: none;
+	color: #d8dee9;
+	position: absolute;
+	text-align: 0px;
+	font-size: 26px;
+	font-family: Beyond the Mountains;
+
+}
+
+.link:hover {
+	color: #79c77b;
+	transition: 1s;
+}
+
+.background {
+	background-color: #343d46;
+}
+
+.title {
+	position: fixed;
+	left: 350px;
+}
+
+/*   Conteudo    */
+
+.banner {
+	width: 200px;
+	height: 200px;
+	background-color: white;
+	float: left;
+	margin-top: 220px;
+	border-radius: 5px;
+}
+
+.image {
+	margin-top: 30px;
+	margin-left: 20px;
+	width: 160px;
+	height: 160px;
+}
